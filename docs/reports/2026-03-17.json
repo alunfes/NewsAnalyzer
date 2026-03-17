@@ -1,0 +1,123 @@
+{
+  "report_date": "2026-03-17",
+  "weekday": "火",
+  "topic_analyses": {
+    "舞浜・ディズニーリゾート": {
+      "summary": "[DRY RUN] 舞浜・ディズニーリゾート の記事 40 件を収集しました。",
+      "highlights": [
+        {
+          "title": "テスト",
+          "description": "ドライランです",
+          "importance": "low"
+        }
+      ],
+      "key_themes": [
+        "テスト"
+      ],
+      "sentiment": "neutral",
+      "trend_comparison": "N/A (ドライラン)"
+    },
+    "千葉・都内イベント・施設": {
+      "summary": "[DRY RUN] 千葉・都内イベント・施設 の記事 20 件を収集しました。",
+      "highlights": [
+        {
+          "title": "テスト",
+          "description": "ドライランです",
+          "importance": "low"
+        }
+      ],
+      "key_themes": [
+        "テスト"
+      ],
+      "sentiment": "neutral",
+      "trend_comparison": "N/A (ドライラン)"
+    },
+    "子育て": {
+      "summary": "[DRY RUN] 子育て の記事 20 件を収集しました。",
+      "highlights": [
+        {
+          "title": "テスト",
+          "description": "ドライランです",
+          "importance": "low"
+        }
+      ],
+      "key_themes": [
+        "テスト"
+      ],
+      "sentiment": "neutral",
+      "trend_comparison": "N/A (ドライラン)"
+    },
+    "マーケット情報": {
+      "summary": "[DRY RUN] マーケット情報 の記事 40 件を収集しました。",
+      "highlights": [
+        {
+          "title": "テスト",
+          "description": "ドライランです",
+          "importance": "low"
+        }
+      ],
+      "key_themes": [
+        "テスト"
+      ],
+      "sentiment": "neutral",
+      "trend_comparison": "N/A (ドライラン)"
+    },
+    "地政学的情報": {
+      "summary": "[DRY RUN] 地政学的情報 の記事 40 件を収集しました。",
+      "highlights": [
+        {
+          "title": "テスト",
+          "description": "ドライランです",
+          "importance": "low"
+        }
+      ],
+      "key_themes": [
+        "テスト"
+      ],
+      "sentiment": "neutral",
+      "trend_comparison": "N/A (ドライラン)"
+    },
+    "Tokenization・デジタル証券": {
+      "summary": "[DRY RUN] Tokenization・デジタル証券 の記事 26 件を収集しました。",
+      "highlights": [
+        {
+          "title": "テスト",
+          "description": "ドライランです",
+          "importance": "low"
+        }
+      ],
+      "key_themes": [
+        "テスト"
+      ],
+      "sentiment": "neutral",
+      "trend_comparison": "N/A (ドライラン)"
+    },
+    "福岡県那珂川市": {
+      "summary": "[DRY RUN] 福岡県那珂川市 の記事 19 件を収集しました。",
+      "highlights": [
+        {
+          "title": "テスト",
+          "description": "ドライランです",
+          "importance": "low"
+        }
+      ],
+      "key_themes": [
+        "テスト"
+      ],
+      "sentiment": "neutral",
+      "trend_comparison": "N/A (ドライラン)"
+    }
+  },
+  "daily_report": {
+    "executive_summary": "[DRY RUN] テスト実行です。",
+    "top_highlights": [],
+    "market_brief": "N/A",
+    "investment_suggestions": [],
+    "lifestyle_tips": "",
+    "trend_alerts": [],
+    "weekend_suggestions": ""
+  },
+  "topic_count": 7,
+  "total_articles": 205,
+  "generated_at": "2026-03-17 23:15 JST"
+}
